@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">WeatherApp_abt734</string>
+    <string name="error_title">Error</string>
+    <string name="error_message">There was an error, please try again</string>
+    <string name="error_button">Confirm</string>
+    <string name="network_unavailable_message">Sorry, the network is unavailable</string>
+    <string name="inputButton">Enter date and time (ex: \"01-03-2019 05:00 PM\")</string>
+</resources>
